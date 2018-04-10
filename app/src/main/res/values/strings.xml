@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">factorypattern</string>
+    <string name="url">URL</string>
+    <string name="primary">Primary</string>
+    <string name="secondary">Secondary</string>
+    <string name="tertiary">Tertiary</string>
+</resources>
